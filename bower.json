@@ -1,0 +1,10 @@
+{
+  "name": "backbone-memento-deep",
+  "version": "0.0.1",
+  "main": "backbone-memento-deep.js",
+  "ignore" : [],
+  "dependencies": {
+    "backbone": "*",
+    "underscore": "*"
+  }
+}
